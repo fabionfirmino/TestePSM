@@ -1,0 +1,16 @@
+No meu entendimento, a Tela tem a finalidade de concluir os pedidos.
+Caso, este processo não fosse automatizado, para cada pedido que fosse realizado, alguem, deveria fazer uso desta tela, para indicar
+o Cliente, o Estado de onde ele esta comprando, e o estado de onde os produtos estão saindo.
+Uma vez informado isso, para cada item informado, deveria ser preenchida a grid, com as respectivas informações, para faturamento,
+auditoria e controle de estoque.
+
+Cada implementação foi realizada da melhor maneira possivel, dentro do tempo que tive disponivel, um fim de semana, e com base na ajuda 
+disponivel, Google.
+
+Alguns trechos que foram ajustados:
+Havia um trecho que estava colocando o EstadoOrigem como Destino, e o Destino como Origem. Corrigido.
+Regra de Cfop com alguns problemas, não existem todos os De-Para, então implementei um ELSE, para quando não encontrar correspondencia, preencher com 0
+Os Itens do Pedido, estava como um IEnumerable, porem, mudei para um List, uma vez que não estava conseguindo atribuir os valores a coleção,
+e sendo que isso era necessario para o preenchimento do XML e Banco de dados.
+Foi criada uma classe de negocios, referente as atividades de emissão de Nota Fiscal, para centralizar as ações em um unico local, deixando os 
+arquivo do Namespace Domain, como Entidades e nada mais.

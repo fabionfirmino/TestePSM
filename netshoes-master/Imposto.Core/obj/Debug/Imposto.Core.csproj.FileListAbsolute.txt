@@ -1,0 +1,17 @@
+E:\Projetos\netshoes\netshoes\Imposto.Core\bin\Debug\Imposto.Core.dll
+E:\Projetos\netshoes\netshoes\Imposto.Core\bin\Debug\Imposto.Core.pdb
+E:\Projetos\netshoes\netshoes\Imposto.Core\obj\Debug\Imposto.Core.csprojResolveAssemblyReference.cache
+E:\Projetos\netshoes\netshoes\Imposto.Core\obj\Debug\Imposto.Core.csproj.CoreCompileInputs.cache
+E:\Projetos\netshoes\netshoes\Imposto.Core\obj\Debug\Imposto.Core.dll
+E:\Projetos\netshoes\netshoes\Imposto.Core\obj\Debug\Imposto.Core.pdb
+E:\Projetos\netshoes\netshoes\Imposto.Core\bin\Debug\BancoNetshoes.mdf
+E:\Projetos\netshoes\netshoes\Imposto.Core\bin\Debug\BancoNetshoes_log.ldf
+E:\Projetos\netshoes\netshoes\Imposto.Core\bin\Debug\Imposto.Core.dll.config
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\obj\Debug\Imposto.Core.csprojResolveAssemblyReference.cache
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\obj\Debug\Imposto.Core.dll
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\obj\Debug\Imposto.Core.pdb
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\bin\Debug\BancoNetshoes.mdf
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\bin\Debug\BancoNetshoes_log.ldf
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\bin\Debug\Imposto.Core.dll.config
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\bin\Debug\Imposto.Core.dll
+C:\Users\Bankai\Downloads\netshoes-master\netshoes-master\Imposto.Core\bin\Debug\Imposto.Core.pdb

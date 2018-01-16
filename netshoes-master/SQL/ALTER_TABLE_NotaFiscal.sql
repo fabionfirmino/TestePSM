@@ -1,0 +1,1 @@
+ALTER TABLE [dbo].[NotaFiscal] ADD [Desconto] [decimal](18, 5) NULL;
