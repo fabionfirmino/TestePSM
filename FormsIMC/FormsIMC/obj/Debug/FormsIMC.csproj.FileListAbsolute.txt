@@ -1,0 +1,9 @@
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\bin\Debug\FormsIMC.exe.config
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\obj\Debug\FormsIMC.csprojResolveAssemblyReference.cache
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\obj\Debug\FormsIMC.Form1.resources
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\obj\Debug\FormsIMC.Properties.Resources.resources
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\obj\Debug\FormsIMC.csproj.GenerateResource.Cache
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\bin\Debug\FormsIMC.exe
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\bin\Debug\FormsIMC.pdb
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\obj\Debug\FormsIMC.exe
+c:\users\bankai\documents\visual studio 2015\Projects\FormsIMC\FormsIMC\obj\Debug\FormsIMC.pdb
